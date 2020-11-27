@@ -1,0 +1,1 @@
+ROT13 es en realidad un caso particular de un grupo simple de algoritmos de cifrado llamado cifrados Cesar, los cuales están basados en el cifrado por sustitución y pertenecen a la criptografía clásica.
